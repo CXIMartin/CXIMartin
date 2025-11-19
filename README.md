@@ -1,4 +1,10 @@
-## Hi there 👋
+## Designation: Martin
+## Affiliation: CXI
+## Skills: Sysad, Sysop, DevSecOps, Persuasion +8
+## Traits: Myopia (-2 Aim without glasses), Strong Back (2 Ranks)
+### Begin brief: "Hello! I'm an employee of CXI and I manage our GitHub presence, among many other things. Queries can be directed to my corporate email address, available at fine data brokers everywhere.
+
+
 
 <!--
 **CXIMartin/CXIMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
