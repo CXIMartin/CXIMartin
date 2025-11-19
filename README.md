@@ -2,7 +2,7 @@
 ### Affiliation: CXI
 ### Skills: Sysad, Sysop, DevSecOps, Persuasion +8
 ### Traits: Myopia (-2 Aim without glasses), Strong Back (2 Ranks)
-#### Begin brief: "Hello! I'm an employee of CXI and I manage our GitHub presence, among many other things. Queries can be directed to my corporate email address, available at fine data brokers everywhere.
+#### Begin brief: "Hello! I'm an employee of CXI and I manage our GitHub presence, among many other things. Queries can be directed to my corporate email address, available at fine data brokers everywhere."
 
 
 
